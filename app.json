@@ -6,9 +6,9 @@
         "telegram",
         "github"
     ],
-    "repository": "https://github.com/pokurt/GitGram",
-    "website": "https://github.com/pokurt/GitGram",
-    "success_url": "https://t.me/GitGramChat",
+    "repository": "https://github.com/Titan-OP/TITAN-GIT",
+    "website": "https://github.com/Titan-OP/TITAN-GIT",
+    "success_url": "https://t.me/TITANX_CHAT",
     "stack": "container",
     "env": {
         "ENV": {
