@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Dockerfile
+    worker: .gitpod Dockerfile
 run:
   worker: python3 -m Gitgram
